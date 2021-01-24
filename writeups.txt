@@ -1,0 +1,41 @@
+1.Snowsnow: 	  	      	      	  	 	       	 
+		
+		
+		I see you standing among them all    	 	  	      	 	  
+		  	       	      	   	   	    	  	     	     	       
+		Standing so strong ,proud and tall      	   	     	       	    
+		  	      	     	 	  	   	  	     	      	      
+		The world looks at you, but does not see       	   	    	      	      
+		   	   	    	  	     	     	 	    	    
+		Everything you sacrifice to keep us free	  	       	       	 
+		     	       	       	      	      	   	       	     	       	       
+		I'm here to say, to let you know    	      		     	 	 
+			  		 	     	    	   	       	  
+		That you are loved, even if it doesn't show
+
+		You fight for our hopes,dreams,and liberty
+
+		You fight for our freedom
+
+		A hero to be
+
+		We want you to know, your never alone
+
+		For we are waiting, for you to come home
+
+		But the hardest thing for a person to be is you
+
+		A soldier, fighting to keep us free.
+tool:stegsnow and found 
+
+
+2.security101
+  	used $ zip2john file.zip and exiftool tool for username
+  	flag:inctfj{1ts_4ll_f1ne_tru5t_m3}
+  
+ 3.Back to San Andreas
+    Use jsteg reveal san.jpeg 
+    https://ibb.co/3s8d1bv in that link u can find the flag
+    flag: inctfj{gr0ve_5treet_f0r_l1fe}
+4.detalied view 
+ZmxhZ3tNMTVzSTBOX2FDYzBNUEwxNWgzRH0=
