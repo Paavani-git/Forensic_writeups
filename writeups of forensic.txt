@@ -39,3 +39,18 @@ tool:stegsnow and found
     flag: inctfj{gr0ve_5treet_f0r_l1fe}
 4.detalied view 
 ZmxhZ3tNMTVzSTBOX2FDYzBNUEwxNWgzRH0=
+
+5.jaychot:
+    magic number:FF D8 DD------>jpg so jpg and jpeg are not same
+    change D9 to D8 and change extention from .jpeg to jpg
+6.the office trouble 1
+    1.use $ fcrackzip -v -b -u -p <file_name.zip> command
+    2.next use this $ fcrackzip -v -u -D -p <path_to_wordlist_file> <file_name.zip>
+    paste the password that you got "perfectlypunk"in the zip file password window
+    3.open the jng file:
+    here is your flag :inctfj{dw1ght_1s_cr4zy_bu7_awes0me}
+7.the office trouble 2
+   1.use $ pdfcrack -f <file_name> -w <location_of_wordlist_file>
+   2.past the password that you got on the screen password: 'fear420'
+   3. found flag: inctfj{ass1stant_t0_th3_regi0nal_man4ger}
+    
