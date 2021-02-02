@@ -66,5 +66,6 @@ ZmxhZ3tNMTVzSTBOX2FDYzBNUEwxNWgzRH0=
   1.first check chunks in png file
       use $ pngcheck -v -p magic.png 
       using Ghex command edit Magic numbers in png file.
+     Ex:90 70 6E 67 -> 89 50 4E 47
    2.flag= flag{Chunks_4r3_1mpor74n7_f0r_1mage5}
       
