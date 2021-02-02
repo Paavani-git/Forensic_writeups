@@ -62,3 +62,9 @@ ZmxhZ3tNMTVzSTBOX2FDYzBNUEwxNWgzRH0=
   1.use $ audacity noise.wav command
   2.change noise to  stereogram
   Flag:inctfj_y0u_b3tt3r_l00k_cl0s3ly}
+9.Magic DIgits
+  1.first check chunks in png file
+      use $ pngcheck -v -p magic.png 
+      using Ghex command edit Magic numbers in png file.
+   2.flag= flag{Chunks_4r3_1mpor74n7_f0r_1mage5}
+      
