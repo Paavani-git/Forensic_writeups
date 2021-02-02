@@ -27,6 +27,11 @@
 
 		A soldier, fighting to keep us free.
 tool:stegsnow and found 
+1.Use "stegsnow -C  snowsnow.txt out.txt"
+2.cat out.txt
+encrypted flag:ntio{eP1B35x4K3_aB3O0_q5_K00t}
+Using bruteforce --> ceaser ciper-->flag= flag{wH1T35p4C3_sT3G0_i5_C00l}
+
 
 
 2.security101
