@@ -58,4 +58,7 @@ ZmxhZ3tNMTVzSTBOX2FDYzBNUEwxNWgzRH0=
    1.use $ pdfcrack -f <file_name> -w <location_of_wordlist_file>
    2.past the password that you got on the screen password: 'fear420'
    3. found flag: inctfj{ass1stant_t0_th3_regi0nal_man4ger}
-    
+8.Noise
+  1.use $ audacity noise.wav command
+  2.change noise to  stereogram
+  Flag:inctfj_y0u_b3tt3r_l00k_cl0s3ly}
